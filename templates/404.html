@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>404 Not Found</title>
+    <link rel="shortcut icon" href="./static/images/favicon.ico">
+    <link rel="stylesheet" href="./static/css/semantic.css">
+    <script src="./static/js/jquery.min.js"></script>
+    <script src="./static/js/semantic.js"></script>
+</head>
+
+<body>
+    <div class="ui middle aligned grid" style="height: 100%">
+
+        <div class="ui container">
+            <br>
+            <br>
+            <br>
+            <img class="ui centered huge image" src="{{ url_for('static', filename='images/404.png') }}">
+            <br>
+            <div class="ui center aligned container">
+                <h3>Page Resources Not Found</h3>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

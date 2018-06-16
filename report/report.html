@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>XSS扫描结果</title>
+    <link rel="shortcut icon" href="./static/images/favicon.ico">
+    <link rel="stylesheet" href="./static/css/semantic.css">
+    <link rel="stylesheet" href="./static/css/pandoc-code-highlight.css">
+    
+    <script src="./static/js/jquery.min.js"></script>
+    <script src="./static/js/semantic.js"></script>
+</head>
+<body>
+
+    <h1>XSS扫描结果如下:</h1>
+    <div class="ui divider"></div>
+    
+        <h2>http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case01-Tag2HtmlPageScope.jsp?userinput=textvalue</h2>
+        <h2>&#34;&gt;&lt;iframe src=javascript:alert(&#34;reflect_xss_found&#34;)&gt;&lt;/iframe&gt;</h2>
+        <h2>userinput</h2>
+        <h2>2018-06-13 09:23:57</h2>
+        <div class="ui divider"></div>
+    
+        <h2>http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case32-Tag2HtmlPageScopeValidViewstateRequired.jsp?userinput=textvalue&amp;__VIEWSTATE=%2FwEPDwUENTM4MWRkhsjF%2B62gWnhYUcEyuRwTHxGDVzA%3D</h2>
+        <h2>&lt;ScRiPt&gt;alert(&#39;reflect_xss_found&#39;);&lt;/ScRiPt&gt;</h2>
+        <h2>__VIEWSTATE</h2>
+        <h2>2018-06-13 09:24:25</h2>
+        <div class="ui divider"></div>
+    
+
+</body>
+</html>

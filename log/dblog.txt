@@ -1,0 +1,100 @@
+2018-06-13 09:24:26,495 database MainThread [line:15] WARNING create database: ./database/url.db
+2018-06-13 09:24:26,580 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,580 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/index.jsp to database ./database/url.db
+2018-06-13 09:24:26,581 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,582 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,583 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case01-Tag2HtmlPageScope.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,584 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,585 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,585 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case02-Tag2TagScope.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,586 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,588 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,588 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case03-Tag2TagStructure.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,590 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,591 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,591 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case04-Tag2HtmlComment.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,592 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,593 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,594 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case05-Tag2Frameset.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,595 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,597 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,597 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/textvalue to database ./database/url.db
+2018-06-13 09:24:26,598 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,599 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,599 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case06-Event2TagScope.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,600 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,602 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,602 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case07-Event2DoubleQuotePropertyScope.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,603 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,605 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,605 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case08-Event2SingleQuotePropertyScope.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,606 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,608 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,608 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case09-SrcProperty2TagStructure.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,609 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,610 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,610 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case10-Js2DoubleQuoteJsEventScope.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,611 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,612 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,612 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case11-Js2SingleQuoteJsEventScope.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,613 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,615 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,615 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case12-Js2JsEventScope.jsp?userinput=1234 to database ./database/url.db
+2018-06-13 09:24:26,616 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,617 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,618 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case13-Vbs2DoubleQuoteVbsEventScope.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,619 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,620 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,620 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case14-Vbs2SingleQuoteVbsEventScope.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,621 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,623 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,623 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case15-Vbs2VbsEventScope.jsp?userinput=1234 to database ./database/url.db
+2018-06-13 09:24:26,624 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,627 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,627 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case17-Js2PropertyJsScopeDoubleQuoteDelimiter.jsp?userinput=david to database ./database/url.db
+2018-06-13 09:24:26,629 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,630 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,631 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case18-Js2PropertyJsScopeSingleQuoteDelimiter.jsp?userinput=david to database ./database/url.db
+2018-06-13 09:24:26,632 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,634 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,634 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case19-Js2PropertyJsScope.jsp?userinput=1234 to database ./database/url.db
+2018-06-13 09:24:26,635 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,636 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,636 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case20-Vbs2PropertyVbsScopeDoubleQuoteDelimiter.jsp?userinput=david to database ./database/url.db
+2018-06-13 09:24:26,637 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,638 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,639 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case21-Vbs2PropertyVbsScope.jsp?userinput=david to database ./database/url.db
+2018-06-13 09:24:26,639 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,640 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,640 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case22-Js2ScriptTagDoubleQuoteDelimiter.jsp?userinput=david to database ./database/url.db
+2018-06-13 09:24:26,641 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,642 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,642 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case23-Js2ScriptTagSingleQuoteDelimiter.jsp?userinput=david to database ./database/url.db
+2018-06-13 09:24:26,644 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,645 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,645 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case24-Js2ScriptTag.jsp?userinput=1234 to database ./database/url.db
+2018-06-13 09:24:26,647 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,647 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,648 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case25-Vbs2ScriptTagDoubleQuoteDelimiter.jsp?userinput=david to database ./database/url.db
+2018-06-13 09:24:26,649 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,650 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,650 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case26-Vbs2ScriptTag.jsp?userinput=1234 to database ./database/url.db
+2018-06-13 09:24:26,651 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,652 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,653 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case27-Js2ScriptTagOLCommentScope.jsp?userinput=1234 to database ./database/url.db
+2018-06-13 09:24:26,653 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,655 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,655 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case28-Js2ScriptTagMLCommentScope.jsp?userinput=1234 to database ./database/url.db
+2018-06-13 09:24:26,657 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,658 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,658 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case29-Vbs2ScriptTagOLCommentScope.jsp?userinput=1234 to database ./database/url.db
+2018-06-13 09:24:26,659 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,660 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,660 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case30-Tag2HtmlPageScopeMultipleVulnerabilities.jsp?userinput=1234&userinput2=1234 to database ./database/url.db
+2018-06-13 09:24:26,661 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,663 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,663 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case31-Tag2HtmlPageScopeDuringException.jsp?userinput=textvalue to database ./database/url.db
+2018-06-13 09:24:26,664 database MainThread [line:127] INFO close database
+2018-06-13 09:24:26,666 database MainThread [line:53] WARNING open database: ./database/url.db
+2018-06-13 09:24:26,666 database MainThread [line:67] WARNING insert http://localhost:8080/wavsep/active/Reflected-XSS/RXSS-Detection-Evaluation-GET/Case32-Tag2HtmlPageScopeValidViewstateRequired.jsp?userinput=textvalue&__VIEWSTATE=%2FwEPDwUENTM4MWRkhsjF%2B62gWnhYUcEyuRwTHxGDVzA%3D to database ./database/url.db
+2018-06-13 09:24:26,667 database MainThread [line:127] INFO close database

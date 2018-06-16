@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>XSS扫描结果</title>
+    <link rel="shortcut icon" href="./static/images/favicon.ico">
+    <link rel="stylesheet" href="./static/css/semantic.css">
+    <link rel="stylesheet" href="./static/css/pandoc-code-highlight.css">
+    
+    <script src="./static/js/jquery.min.js"></script>
+    <script src="./static/js/semantic.js"></script>
+</head>
+<body>
+
+    <h1>XSS扫描结果如下:</h1>
+    <div class="ui divider"></div>
+    {% for data in datas %}
+        <h2>{{ data.url }}</h2>
+        <h2>{{ data.payload }}</h2>
+        <h2>{{ data.injectPoint }}</h2>
+        <h2>{{ data.startedTime }}</h2>
+        <div class="ui divider"></div>
+    {% endfor %}
+
+</body>
+</html>
